@@ -28,6 +28,7 @@ El sistema permite administrar clientes, membresías, clases, reservas, ventas, 
 - Maven
 - Lombok
 - IntelliJ IDEA
+- Visual Studio Code
 
 ---
 
